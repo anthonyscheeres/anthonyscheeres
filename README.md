@@ -1,6 +1,6 @@
 ### Hi there 👋, Anthony
-#### I am Full stack developer
-![I am Full stack developer](http://anthonyscheeres.nl/assets/img/bg-masthead.jpg)
+#### I am Full-stack developer
+![I am Full-stack developer](http://anthonyscheeres.nl/assets/img/bg-masthead.jpg)
 
 I already build projects for work and as a hobby. I am a software engineer and I am interested in continuously learning new languages. I can help to conquer the newest markets in the computer world.
 
